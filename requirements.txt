@@ -1,0 +1,13 @@
+# Core ML & CV
+torch            # nightly installed manually
+torchvision      # nightly installed manually
+# opencv-python-headless==4.8.0.76
+opencv-python-headless>=4.10.0.84
+ultralytics==8.0.196
+pyzbar==0.1.9
+
+# Data Handling
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+albumentations==1.3.1
